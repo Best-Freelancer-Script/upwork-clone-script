@@ -1,5 +1,4 @@
 ## Build Your Own Upwork Clone Website with Open Source Software
-![Image](https://github.com/user-attachments/assets/0b739f86-65bd-400b-a763-b115ee3fb0d4)
 Best Freelancer Script offers a feature-rich and fully customizable Upwork clone open source script exclusively designed for startups and entrepreneurs. By using this software, you can effortlessly build and launch a successful online freelance platform like Upwork in 24 hours. If you are a startup and looking to launch your marketplace within a quick time, our **[Upwork clone script](https://www.bestfreelancerscript.com/upwork-clone-script)** for startups is an ideal option for you.
 
 ### Key Features of the Software
